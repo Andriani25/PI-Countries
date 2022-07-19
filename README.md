@@ -8,10 +8,19 @@
   <img height="200" src="./countries.png" />
 </p>
 
-## Objetivos del Proyecto
+## Funcionalidades del Proyecto
 
-- Construir una App utlizando React, Redux, Node y Sequelize.
-- Afirmar y conectar los conceptos aprendidos en la carrera.
-- Aprender mejores prácticas.
-- Aprender y practicar el workflow de GIT.
-- Usar y practicar testing.
+- Una Landing Page.
+
+- Un Home con:
+
++ 🔍 SearchBar insensitive 
++ 🔢 Paginado numérico
++ ⏹ Distintas tarjetas que contienen información inicial de cada país
++ ❓  Distintos filtrados y ordenamientos
++ 📋 Un acceso a un formulario controlado
+
+-   Detalles de cada tarjeta de cada País
+
+- Un formulario controlado que permite añadir actividades a los países seleccionados
+
