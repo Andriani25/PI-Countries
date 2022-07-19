@@ -1,0 +1,27 @@
+.card {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    display: inline-block;
+    cursor: pointer;
+    width: 250px;
+    height: 254px;
+    background: rgba(0, 0, 0, 0.473);
+    border-radius: 75px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    transition: all .2s;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, 0.2);
+    margin-bottom: 50px;
+   }
+
+   .textCard{
+    word-wrap: break-word;
+   }
+   
+   .imgCard{
+    border-radius: 75px;
+   }
+   
+   .card:hover {
+    box-shadow: -12px 12px 2px -1px rgba(0, 0, 0, 0.2);
+   }
+   

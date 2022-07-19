@@ -1,0 +1,32 @@
+.body{
+    min-width: 100%;
+    min-height: 100%;
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://www.teahub.io/photos/full/236-2363274_wallpapers-v-old-world-map-4k.jpg);
+}
+
+.cardConteiner{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(35%, 1fr));
+    justify-items: center;
+}
+
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+}
+
+.orderFilters{
+    font-family: 'Times New Roman', Times, serif;
+ margin: 0;
+ padding: 0;
+ border: 3px solid rgb(0, 0, 0);
+ border-radius: 5px;
+ 
+}
